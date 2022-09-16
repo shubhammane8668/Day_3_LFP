@@ -1,6 +1,6 @@
 package Employee_wage;
 
-public class Present_absent {
+public class Uc_1 {
 
 	public static void main(String[] args) {
          int IS_FULL_TIME=1;
